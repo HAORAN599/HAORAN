@@ -1,5 +1,5 @@
-A = int(input("please enter the first number "))
-B = int(input("please enter the second number "))
+A = int(input("please enter the first integer number "))
+B = int(input("please enter the second integer number "))
 
 def GCD(A,B):  #use def to encapsulated code
     
